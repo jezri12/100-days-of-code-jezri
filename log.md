@@ -16,4 +16,11 @@ Backend
 - fastify
 - flask
 
-I also want to refine my fundamentals in html, js and css
+Projects to make
+- advanced todo app
+- chat app
+- online store with auth and accounts
+- a calendar / agenda
+- a website that tells you the weather with css
+- a simple nested wiki
+- for now, thats all
