@@ -24,3 +24,6 @@ Projects to make
 - a website that tells you the weather with css
 - a simple nested wiki
 - for now, thats all
+
+### Day 1: March 25, 2022
+Well I started work on the Advanced Todo, I set up the dev enviroment and a basic backend using expressjs, as well as a basic html page with a few concepts. I plan using alpinejs for the html frontend, but I may go with pure html, css and js. I also went from 60% on the "html and html5 basics" course on freecodecamp to 100%.
