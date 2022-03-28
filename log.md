@@ -27,3 +27,9 @@ Projects to make
 
 ### Day 1: March 25, 2022
 Well I started work on the Advanced Todo, I set up the dev enviroment and a basic backend using expressjs, as well as a basic html page with a few concepts. I plan using alpinejs for the html frontend, but I may go with pure html, css and js. I also went from 60% on the "html and html5 basics" course on freecodecamp to 100%.
+
+### Day 2: March 26, 2022
+Too busy didnt do anything
+
+### Day 3: March 27, 2022
+I iplemented some basic comunication between the client and the server aswell as starting to implement sqlite for the database of the server.
