@@ -33,3 +33,6 @@ Too busy didnt do anything
 
 ### Day 3: March 27, 2022
 I iplemented some basic comunication between the client and the server aswell as starting to implement sqlite for the database of the server.
+
+### Day 4: March 28, 2022
+I basically completed sqlite implementation on the server. I also implemented querying and data sending to the client.
