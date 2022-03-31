@@ -36,3 +36,9 @@ I iplemented some basic comunication between the client and the server aswell as
 
 ### Day 4: March 28, 2022
 I basically completed sqlite implementation on the server. I also implemented querying and data sending to the client.
+
+### Day 5: March 29, 2022
+Worked on some lessons on freeCodeCamp
+
+### Day 6: March 30, 2022
+Started work on how the frontend of ATA should look, decided that my way of getting data was not very practical so I did a complete revamp. At first I wanted to us Alpinejs but since I ran into some problems I decided to use Jquery. I had never used AJAX and its amazing honestly. Its so straight foward and without convolutions. Also, implementing the UI revamp with JQuery was so great, it feels as if im alot more in control with my code and how it works, other frameworks almost felt limiting in a way.
