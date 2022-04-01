@@ -42,3 +42,6 @@ Worked on some lessons on freeCodeCamp
 
 ### Day 6: March 30, 2022
 Started work on how the frontend of ATA should look, decided that my way of getting data was not very practical so I did a complete revamp. At first I wanted to us Alpinejs but since I ran into some problems I decided to use Jquery. I had never used AJAX and its amazing honestly. Its so straight foward and without convolutions. Also, implementing the UI revamp with JQuery was so great, it feels as if im alot more in control with my code and how it works, other frameworks almost felt limiting in a way.
+
+### Day 7: March 31, 2022
+Completed FlexFroggy, it was very fun. I didnt have much time so tomorrow I plan on implementing some of what I learn in a basic project.
