@@ -45,3 +45,6 @@ Started work on how the frontend of ATA should look, decided that my way of gett
 
 ### Day 7: March 31, 2022
 Completed FlexFroggy, it was very fun. I didnt have much time so tomorrow I plan on implementing some of what I learn in a basic project.
+
+### Day 8: April 1, 2022
+Tried implementing some css, I dislike css honestly
