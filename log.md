@@ -48,3 +48,6 @@ Completed FlexFroggy, it was very fun. I didnt have much time so tomorrow I plan
 
 ### Day 8: April 1, 2022
 Tried implementing some css, I dislike css honestly
+
+### Day 10: April 4, 2022
+Implemented some Todo rendering from the data of the backend
